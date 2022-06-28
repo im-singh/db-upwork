@@ -1,0 +1,36 @@
+[
+	{
+		"date" : "",
+		"totalPrice" : "$1,000.00",
+		"paymentDate" : "",
+		"paymentCode" : "VISA",
+		"type" : "credit",
+		"cardNumber" : "4512654798543254",
+		"customer" : "62b3269377d98ae9263005f9",
+		"items" : [
+			{
+				"code" : "A",
+				"quantity" : 1.0,
+				"product" : "62aeb8e9d99757dbc4baa6e6"
+			}
+		],
+		"delivery" : {
+			"deliveryDate" : "",
+			"carrier" : {
+				"name" : "FedEx",
+				"contacts" : [
+					{
+						"name" : "John Smith",
+						"email" : "johnsmith@gmail.com",
+						"phone" : "123-456-7890"
+					}
+				],
+				"address" : {
+					"street" : "123 Main St",
+					"city" : "New York"
+				}
+			}
+		}
+	}
+	
+]

@@ -1,0 +1,14 @@
+{
+    "name" : "John Doe",
+    "contacts" : [
+        {
+            "name" : "John Doe",
+            "email" : "johndoe@gmail.com",
+            "phone" : "123-456-7890"
+        }
+    ],
+    "address" : {
+        "street" : "123 Main St",
+        "city" : "New York"
+    }
+}

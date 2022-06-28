@@ -1,0 +1,16 @@
+[
+    {
+        "name" : "Supplier 7",
+        "contacts" : [
+            {
+                "name" : "Contact 7",
+                "email" : "somerandom@email.com",
+                "phone" : "555-555-5555"
+            }
+        ],
+        "address" : {
+            "street" : "123 Main St",
+            "city" : "Anytown"
+        }
+    }
+]

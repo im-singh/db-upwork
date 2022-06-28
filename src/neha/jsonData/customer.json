@@ -1,0 +1,36 @@
+[
+    {
+        "name" : "Marry Willis",
+        "contacts" : [
+            {
+                "phone" : "1-867-5309"
+            }
+        ],
+        "address" : {
+            "street" : "8981 Mattis Ct",
+            "city" : "Newport"
+        },
+        "orders" : [
+            {
+                "number" : NumberInt(1),
+                "date" : ISODate("2022-02-02T00:00:00.000+0000"),
+                "totalPrice" : "$1,234.00",
+                "items" : [
+                    {
+                        "code" : "A",
+                        "quantity" : NumberInt(1),
+                        "product" : ObjectId("62a963351241c45105a39898")
+                    }
+                ],
+                "delivery" : {
+                    "deliveryDate" : ISODate("2022-02-02T00:00:00.000+0000"),
+                    "carrier" : ObjectId("62a95c901241c45105a3986c")
+                },
+                "commitment" : {
+                    "paymentDate" : ISODate("2017-01-01T00:00:00.000+0000"),
+                    "payment" : ObjectId("62a9609c1241c45105a3988c")
+                }
+            }
+        ]
+    }
+]

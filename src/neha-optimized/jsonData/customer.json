@@ -1,0 +1,36 @@
+[
+    {
+        "name" : "Gurmeet",
+        "contacts" : [
+            {
+                "phone" : "1-867-5309"
+            }
+        ],
+        "address" : {
+            "street" : "4 phase 59 sector mohali",
+            "city" : "Mohali"
+        },
+        "orders" : [
+            {
+                "number" : 1,
+                "date" : "2020-01-01",
+                "totalPrice" : "$1,000.00",
+                "paymentDate" : "2020-01-01",
+                "paymentCode" : "VISA",
+                "type" : "credit",
+                "cardNumber" : "4512654798543254",
+                "items" : [
+                    {
+                        "code" : "A",
+                        "quantity" : 1,
+                        "product" : "627661273676vcc76173"
+                    }
+                ],
+                "delivery" : {
+                    "deliveryDate" : "2020-01-01",
+                    "carrier" : "62ac655ffb0ed2cc78c8099f"
+                }
+            }
+        ]
+    }
+]

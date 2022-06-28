@@ -1,0 +1,8 @@
+{
+    "bill" : NumberInt(185),
+    "creditCard" : {
+        "number" : "445126789415454",
+        "expirationDate" : ISODate("2025-03-22T18:30:00.000+0000")
+    },
+    "customer" : ObjectId("62aadae36850b58066579b83")
+}

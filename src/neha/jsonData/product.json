@@ -1,0 +1,10 @@
+[
+    {
+        "price" : NumberInt(25),
+        "category" : ObjectId("62a95d401241c45105a39880"),
+        "furnishing" : {
+            "supplier" : ObjectId("62a95b621241c45105a39864")
+        },
+        "quantity" : 6.0
+    }
+]
